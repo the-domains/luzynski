@@ -1,0 +1,28 @@
+name: luzynski
+favicon: null
+layout_spectrum: 0.09052592772059143
+typography_spectrum: 0.034889650298282504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4165731694083661
+  lightness: 0.9008957610931247
+  saturation: 0.1552158291451633
+  rhythmicContrast: 0.44742606789804995
+purpose: []
